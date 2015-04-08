@@ -1,2 +1,6 @@
-<?php
-echo "Welcome to our chat app";
+</html>
+<body>
+
+"Welcome to our chat app";
+</body>
+<htm>l
